@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1020919466336",
+    "project_id": "n-back-2d8b3",
+    "storage_bucket": "n-back-2d8b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020919466336:android:dae08f5f976a9f0aa43605",
+        "android_client_info": {
+          "package_name": "com.studio_bong.n_back"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020919466336-l5pcneob0kjnf44ajq7ccrfmjh67gf23.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1dAYtByGzCRVkoypMf0Bt8UG6s6FmXKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020919466336-l5pcneob0kjnf44ajq7ccrfmjh67gf23.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
